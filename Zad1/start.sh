@@ -7,4 +7,4 @@ pip install --user mpi4py
 module load mvapich2
 module load mpiexec
 
-mpiexec -np 3 Zad1/pingpong.py
+mpiexec -np 3 pingpong.py
